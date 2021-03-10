@@ -1,30 +1,31 @@
 {
-  "name": "new-folder",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.21.0",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongodb": "^3.6.3",
-    "mongoose": "^5.10.15",
-    "node-fetch": "^2.6.1",
-    "nodemon": "^2.0.6"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shrutiagrwal/stc-project.git"
-  },
-  "bugs": {
-    "url": "https://github.com/shrutiagrwal/stc-project/issues"
-  },
-  "homepage": "https://github.com/shrutiagrwal/stc-project#readme"
+    "name": "new-folder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.0",
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mongodb": "^3.6.3",
+        "mongoose": "^5.10.15",
+        "node-fetch": "^2.6.1",
+        "nodemon": "^2.0.6"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shrutiagrwal/stc-project.git"
+    },
+    "bugs": {
+        "url": "https://github.com/shrutiagrwal/stc-project/issues"
+    },
+    "homepage": "https://github.com/shrutiagrwal/stc-project#readme"
 }
